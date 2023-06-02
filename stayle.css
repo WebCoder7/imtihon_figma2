@@ -1,0 +1,635 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Bodoni Moda', serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Playfair', serif;
+    font-family: 'Playfair Display', serif;
+}
+
+
+nav {
+    margin-top: 20px
+}
+
+
+.list {
+    display: flex;
+    justify-content: center;
+    gap: 36px;
+    margin-top: 35px;
+}
+
+
+.list_iteam:hover {
+    color: #119FC3;
+}
+
+
+
+.list_iteam {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+
+    /* Others/Text */
+
+    color: #404040;
+}
+
+
+.gaz {
+    margin-top: 35px;
+    font-size: 26px;
+}
+
+
+.logo {
+    margin-bottom: 40px;
+}
+
+
+.sampoo {
+    background: url(./img/photo\ \(1\).png);
+    height: 600px;
+    width: 1312px;
+    margin-bottom: 40px;
+
+}
+
+
+.koko {
+    width: 560px;
+    height: 134px;
+    background: #404040;
+    opacity: 0.55;
+}
+
+
+.jili {
+    padding-top: 138px;
+    margin-left: 80px;
+}
+
+
+.size {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height */
+    padding-bottom: 8px;
+    padding-top: 16px;
+    color: #FFFFFF;
+    padding-left: 24px;
+}
+
+
+.nasha {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+    padding-left: 24px;
+}
+
+
+.btn1 {
+    padding: 10px 24px;
+    margin-top: 16px;
+    border: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #FFFFFF;
+    background: rgba(64, 64, 64, 0.55);
+    border-radius: 4px;
+}
+
+
+.lorems {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    margin-bottom: 110px;
+    color: #404040;
+}
+
+
+.jilet {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    padding-top: 24px;
+
+
+    color: #119FC3;
+}
+
+
+.kal {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+
+    /* Others/Text */
+    margin-top: 0;
+    padding-bottom: 20px;
+    color: #404040;
+}
+
+
+.svet {
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 42px;
+
+    color: #404040;
+}
+
+
+.seveta {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.havola {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    margin-bottom: 75px;
+    color: #404040;
+}
+
+
+.coco {
+    text-align: center;
+    margin-bottom: 105px;
+}
+
+
+.icon1 {
+    padding-bottom: 20px;
+}
+
+
+.pp {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Others/Text */
+    margin-bottom: 8px;
+    color: #404040;
+}
+
+
+.ppceek {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    margin-bottom: 0;
+    /* Others/Text */
+
+    color: #404040;
+}
+
+
+.podbor {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+
+    /* Colors/#1 */
+    margin-top: 8px;
+    color: #119FC3;
+}
+
+
+.insturment {
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 42px;
+
+    color: #404040;
+}
+
+
+.h1max {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 65px;
+}
+
+
+.catum {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+.jkr {
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height */
+
+
+    /* Others/Text */
+
+    color: #404040;
+}
+
+
+.domik {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+    /* Others/Text */
+
+    color: #404040;
+}
+
+
+.obraz {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 42px;
+
+    color: #404040;
+
+}
+
+
+.hacker {
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+
+.totl {
+    font-weight: 300;
+    font-size: 30px;
+    text-align: center;
+
+    color: #404040;
+}
+
+
+.carb {
+    width: 640px;
+    height: 335px;
+    background: #FFFFFF;
+    border-radius: 16px 16px 0px 0px;
+    margin-bottom: 32px;
+}
+
+
+
+.png1 {
+    margin-left: -8px;
+    margin-top: -3px
+}
+
+
+.google {
+    background: #119FC3;
+    border-radius: 0px 160px 160px 0px;
+    border: none;
+    padding: 8px 16px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #FFFFFF;
+
+}
+
+
+.hulk{
+    margin-top: -37px;
+    margin-bottom: 15px;
+}
+
+
+.sodda{
+    font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #404040;
+
+margin-left: 16px;
+}
+
+
+.faol{
+    background: url(./img/Rectangle\ \(4\).png);
+    width: 640px;
+    height: 331px;
+    text-align: center;
+}
+
+
+
+.max{
+    padding-top: 35px;
+    margin-bottom: 40px;
+}
+
+
+.alzap{
+    font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+text-align: center;
+margin-bottom: 51px;
+color: #FFFFFF;
+
+}
+
+
+.aslamboi{
+    width: 260px;
+    border: 1px solid white;
+}
+
+
+.collage{
+    display: flex;
+    justify-content: center;
+}
+
+
+.carbg{
+    background: #FFFFFF;
+border-radius: 16px 16px 0px 0px;
+height: 409px;
+width: 640px;
+margin-bottom: 100px;
+}
+
+
+.gilam{
+    margin-top: 40px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    
+    /* Others/Text */
+    
+    color: #404040;
+}
+
+
+.karavat{
+    font-weight: 400;
+font-size: 24px;
+margin-bottom: 0;
+line-height: 32px;
+/* identical to box height */
+
+
+/* Others/Text */
+margin-top: 12px;
+
+color: #404040;
+}
+
+
+.vale{
+    font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+margin-top: 12px;
+/* Others/Text */
+
+color: #404040;
+}
+
+
+.direktor{
+    font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+/* Others/Text */
+margin-top: 40px;
+color: #404040;
+margin-bottom: 0px;
+}
+
+
+.kasb{
+    font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+
+/* Others/Text */
+margin-top: 12px;
+color: #404040;
+}
+
+
+
+
+
+
+
+
+/* 992 dan 1199 gacha */
+@media (max-width: 1199px) {}
+
+/* 768 dan 991 gacha */
+@media (max-width: 991px) {}
+
+/* 576 dan 767 gacha */
+@media (max-width: 767px) {}
+
+/* 0 dan 575 gacha */
+@media (max-width: 575px) {
+
+    .logo {
+        margin-bottom: -4px;
+        width: 76px;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .sampo {
+        background: url(./img/kkkkk.png);
+        height: 208px;
+        width: 384px;
+        margin-bottom: 40px;
+    }
+    .koko {
+        width: 284px;
+        height: 140px;
+        background: #404040;
+        opacity: 0.55;
+        margin-left: -35px;
+        margin-top: 99px;
+    }
+    .size {
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 32px;
+        padding-bottom: 8px;
+        padding-top: 16px;
+        color: #FFFFFF;
+        padding-left: 24px;
+    }
+    .koko {
+        width: 284px;
+        height: 140px;
+        background: #404040;
+        opacity: 0.55;
+        margin-left: -36px;
+        margin-top: -128px;
+    }
+    .nasha {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 19px;
+        color: #FFFFFF;
+        padding-left: 24px;
+        margin-top: -15px;
+    }
+    .btn1 {
+        padding: 10px 24px;
+        margin-top: 16px;
+        border: none;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        color: #FFFFFF;
+        background: rgba(64, 64, 64, 0.55);
+        border-radius: 4px;
+        margin-left: -32px;
+    }
+    .lorems {
+        font-weight: 300;
+        font-size: 19px;
+        /* line-height: 28px; */
+        text-align: center;
+        /* margin-bottom: 110px; */
+        color: #404040;
+    }
+    .kal {
+        font-weight: 300;
+        font-size: 21px;
+        line-height: 28px;
+        margin-top: 0;
+        padding-bottom: 20px;
+        color: #404040;
+    }
+    .pp {
+        font-weight: 400;
+        font-size: 42px;
+        line-height: 32px;
+        text-align: center;
+        margin-bottom: 8px;
+        color: #404040;
+    }
+    .ppceek {
+        font-weight: 300;
+        font-size: 27px;
+        line-height: 31px;
+        text-align: center;
+        margin-bottom: 0;
+        color: #404040;
+    }
+    .podbor {
+        font-weight: 300;
+        font-size: 24px;
+        line-height: 21px;
+        text-align: center;
+        margin-top: 8px;
+        color: #119FC3;
+    }
+    .jkr {
+        margin-top: 24px;
+        font-weight: 400;
+        font-size: 34px;
+        line-height: 32px;
+        color: #404040;
+    }
+    .domik {
+        font-weight: 300;
+        font-size: 22px;
+        line-height: 28px;
+        text-align: center;
+        color: #404040;
+    }
+    .totl {
+        font-weight: 300;
+        font-size: 23px;
+        text-align: center;
+        color: #404040;
+    }
+    .obraz {
+        font-weight: 500;
+        font-size: 40px;
+        line-height: 42px;
+        color: #404040;
+    }
+    .carb {
+        width: 385px;
+        height: 300px;
+        background: #FFFFFF;
+        border-radius: 16px 16px 0px 0px;
+        margin-bottom: 32px;
+    }
+    .png1 {
+        margin-left: -5px;
+        margin-top: -3px;
+        width: 398px;
+        height: 237px;
+    }
+    .carbg {
+        background: #FFFFFF;
+        border-radius: 16px 16px 0px 0px;
+        height: 412px;
+        width: 386px;
+        margin-bottom: 40px;
+    }.faol {
+        background: url(./img/Rectangle\ \(4\).png);
+        width: 385px;
+        height: 280px;
+        text-align: center;
+    }.gilam {
+        margin-top: 11px;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 28px;
+        text-align: center;
+        color: #404040;
+    }
+    .hacker{
+        text-align: center;
+    }
+
+}
