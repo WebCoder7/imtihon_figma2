@@ -326,24 +326,24 @@ nav {
 }
 
 
-.hulk{
+.hulk {
     margin-top: -37px;
     margin-bottom: 15px;
 }
 
 
-.sodda{
+.sodda {
     font-weight: 400;
-font-size: 24px;
-line-height: 28px;
+    font-size: 24px;
+    line-height: 28px;
 
-color: #404040;
+    color: #404040;
 
-margin-left: 16px;
+    margin-left: 16px;
 }
 
 
-.faol{
+.faol {
     background: url(./img/Rectangle\ \(4\).png);
     width: 640px;
     height: 331px;
@@ -352,105 +352,105 @@ margin-left: 16px;
 
 
 
-.max{
+.max {
     padding-top: 35px;
     margin-bottom: 40px;
 }
 
 
-.alzap{
+.alzap {
     font-weight: 400;
-font-size: 32px;
-line-height: 42px;
-text-align: center;
-margin-bottom: 51px;
-color: #FFFFFF;
+    font-size: 32px;
+    line-height: 42px;
+    text-align: center;
+    margin-bottom: 51px;
+    color: #FFFFFF;
 
 }
 
 
-.aslamboi{
+.aslamboi {
     width: 260px;
     border: 1px solid white;
 }
 
 
-.collage{
+.collage {
     display: flex;
     justify-content: center;
 }
 
 
-.carbg{
+.carbg {
     background: #FFFFFF;
-border-radius: 16px 16px 0px 0px;
-height: 409px;
-width: 640px;
-margin-bottom: 100px;
+    border-radius: 16px 16px 0px 0px;
+    height: 409px;
+    width: 640px;
+    margin-bottom: 100px;
 }
 
 
-.gilam{
+.gilam {
     margin-top: 40px;
     font-weight: 400;
     font-size: 24px;
     line-height: 28px;
     text-align: center;
-    
+
     /* Others/Text */
-    
+
     color: #404040;
 }
 
 
-.karavat{
+.karavat {
     font-weight: 400;
-font-size: 24px;
-margin-bottom: 0;
-line-height: 32px;
-/* identical to box height */
+    font-size: 24px;
+    margin-bottom: 0;
+    line-height: 32px;
+    /* identical to box height */
 
 
-/* Others/Text */
-margin-top: 12px;
+    /* Others/Text */
+    margin-top: 12px;
 
-color: #404040;
+    color: #404040;
 }
 
 
-.vale{
+.vale {
     font-weight: 300;
-font-size: 16px;
-line-height: 19px;
-margin-top: 12px;
-/* Others/Text */
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 12px;
+    /* Others/Text */
 
-color: #404040;
+    color: #404040;
 }
 
 
-.direktor{
+.direktor {
     font-weight: 400;
-font-size: 24px;
-line-height: 32px;
-/* identical to box height */
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height */
 
 
-/* Others/Text */
-margin-top: 40px;
-color: #404040;
-margin-bottom: 0px;
+    /* Others/Text */
+    margin-top: 40px;
+    color: #404040;
+    margin-bottom: 0px;
 }
 
 
-.kasb{
+.kasb {
     font-weight: 300;
-font-size: 16px;
-line-height: 19px;
+    font-size: 16px;
+    line-height: 19px;
 
-/* Others/Text */
-margin-top: 12px;
-color: #404040;
+    /* Others/Text */
+    margin-top: 12px;
+    color: #404040;
 }
 
 
@@ -472,52 +472,52 @@ color: #404040;
 /* 0 dan 575 gacha */
 @media (max-width: 575px) {
 
-    .logo {
-        margin-bottom: -4px;
-        width: 76px;
-    }
-    .navbar-nav{
+
+    .navbar-nav {
         text-align: center;
+        margin-top: 0;
     }
-    .sampo {
+
+    .logo {
+        margin-bottom: 0px;
+        width: 55px;
+    }
+
+    .sampoo {
         background: url(./img/kkkkk.png);
-        height: 208px;
-        width: 384px;
+        width: 100%;
+        height: 85%;
         margin-bottom: 40px;
+
     }
+
     .koko {
-        width: 284px;
-        height: 140px;
+        width: 272px;
+        height: 134px;
         background: #404040;
         opacity: 0.55;
-        margin-left: -35px;
-        margin-top: 99px;
+        margin-left: -71px;
+        margin-top: -126px;
     }
+
     .size {
-        font-weight: 600;
-        font-size: 16px;
-        line-height: 32px;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 22px;
         padding-bottom: 8px;
         padding-top: 16px;
         color: #FFFFFF;
         padding-left: 24px;
     }
-    .koko {
-        width: 284px;
-        height: 140px;
-        background: #404040;
-        opacity: 0.55;
-        margin-left: -36px;
-        margin-top: -128px;
-    }
+
     .nasha {
         font-weight: 400;
-        font-size: 12px;
-        line-height: 19px;
+        font-size: 11px;
+        line-height: 11px;
         color: #FFFFFF;
         padding-left: 24px;
-        margin-top: -15px;
     }
+
     .btn1 {
         padding: 10px 24px;
         margin-top: 16px;
@@ -528,108 +528,106 @@ color: #404040;
         color: #FFFFFF;
         background: rgba(64, 64, 64, 0.55);
         border-radius: 4px;
-        margin-left: -32px;
+        margin-left: 9px;
     }
+
+    .btn1 {
+        padding: 10px 24px;
+        margin-top: 6px;
+        border: none;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        color: #FFFFFF;
+        background: rgba(64, 64, 64, 0.55);
+        border-radius: 4px;
+        margin-left: -70px;
+    }
+
     .lorems {
-        font-weight: 300;
-        font-size: 19px;
-        /* line-height: 28px; */
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 23px;
         text-align: center;
-        /* margin-bottom: 110px; */
+        margin-bottom: 110px;
         color: #404040;
     }
+
+    .jilet {
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 42px;
+        padding-top: 24px;
+        color: #119FC3;
+    }
+
     .kal {
         font-weight: 300;
-        font-size: 21px;
-        line-height: 28px;
+        font-size: 16px;
+        line-height: 31px;
         margin-top: 0;
         padding-bottom: 20px;
         color: #404040;
     }
-    .pp {
-        font-weight: 400;
-        font-size: 42px;
-        line-height: 32px;
-        text-align: center;
-        margin-bottom: 8px;
-        color: #404040;
-    }
-    .ppceek {
-        font-weight: 300;
-        font-size: 27px;
-        line-height: 31px;
-        text-align: center;
-        margin-bottom: 0;
-        color: #404040;
-    }
-    .podbor {
-        font-weight: 300;
-        font-size: 24px;
-        line-height: 21px;
-        text-align: center;
-        margin-top: 8px;
-        color: #119FC3;
-    }
-    .jkr {
-        margin-top: 24px;
-        font-weight: 400;
-        font-size: 34px;
-        line-height: 32px;
-        color: #404040;
-    }
-    .domik {
-        font-weight: 300;
-        font-size: 22px;
-        line-height: 28px;
-        text-align: center;
-        color: #404040;
-    }
-    .totl {
-        font-weight: 300;
-        font-size: 23px;
-        text-align: center;
-        color: #404040;
-    }
-    .obraz {
-        font-weight: 500;
-        font-size: 40px;
+
+    .svet {
+        font-weight: 600;
+        font-size: 25px;
         line-height: 42px;
         color: #404040;
     }
-    .carb {
-        width: 385px;
-        height: 300px;
-        background: #FFFFFF;
-        border-radius: 16px 16px 0px 0px;
-        margin-bottom: 32px;
-    }
-    .png1 {
-        margin-left: -5px;
-        margin-top: -3px;
-        width: 398px;
-        height: 237px;
-    }
-    .carbg {
-        background: #FFFFFF;
-        border-radius: 16px 16px 0px 0px;
-        height: 412px;
-        width: 386px;
-        margin-bottom: 40px;
-    }.faol {
-        background: url(./img/Rectangle\ \(4\).png);
-        width: 385px;
-        height: 280px;
-        text-align: center;
-    }.gilam {
-        margin-top: 11px;
-        font-weight: 400;
-        font-size: 20px;
+
+    .havola {
+        font-weight: 300;
+        font-size: 16px;
         line-height: 28px;
+        text-align: center;
+        margin-bottom: 75px;
+        color: #404040;
+    }
+
+    .insturment {
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 5px;
+        color: #404040;
+    }
+
+    .obraz {
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 58px;
+        color: #404040;
+    }
+
+    .totl {
+        font-weight: 300;
+        font-size: 16px;
         text-align: center;
         color: #404040;
     }
-    .hacker{
+
+    .yol {
+        padding-top: 28px;
+        background: url(./img/Rectangle4455.png);
         text-align: center;
     }
 
+    .hhhs {
+        padding-top: 18px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 21px;
+        text-align: center;
+        padding-bottom: 18px;
+        color: #FFFFFF;
+    }
+    .trafik {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 16px;
+        text-align: center;
+        color: #404040;
+        margin-bottom: 30px;
+    }
 }
